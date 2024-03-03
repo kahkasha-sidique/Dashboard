@@ -1,0 +1,90 @@
+.body1{
+    position: absolute;
+      background-color: lightskyblue;
+    width: 1232px;
+      height: 595px;
+    top: 0px;
+    z-index: 2;
+  }	
+  .login1{
+      text-align: center;
+      margin: auto;
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+    height: 400px;
+    width: 400px;
+    margin-top: 50px;
+  }
+  .xyz1{
+   margin-left: 10px;
+    color: black;
+  }
+  .person{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    margin-top: 100px;
+    margin-left: -162px;
+  }
+  .email{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    margin-top: 120px;
+    margin-left: -162px;
+  }
+  .lock{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    margin-top: 140px;
+    margin-left: -162px;
+  }
+  .lock1{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    margin-top: 163px;
+    margin-left: -162px;
+  }
+
+  .name1 {
+   margin-top: 100px;
+   position: absolute;
+   margin-left: -123px;
+
+}
+.email1{
+    margin-top: 120px;
+    position: absolute;
+    margin-left: -123px;
+ }
+ .password1{
+    margin-top: 143px;
+    position: absolute;
+    margin-left: -123px;
+ }
+ .password2{
+    margin-top: 165px;
+    position: absolute;
+    margin-left: -126px;
+ }
+ input{
+    border: none;
+ }
+ .button1{
+    border: none;
+	background-color:lightskyblue;
+	width: 300px;
+	height:40px ;
+	margin-top: 210px;
+    border-radius: 20px 20px 20px 20px;
+    color: white;
+
+}
+.close-btn{
+  position: absolute;
+  margin-left: 180px;
+  cursor: pointer;
+  color: lightskyblue;
+}

@@ -1,0 +1,617 @@
+.navbar{
+  position: fixed;
+  height: 595px;
+  width: 160px;
+  background-color: white;
+  top: 0px;
+  z-index: 1;
+ 
+  
+}
+.head{
+background-color: #3388ff;
+height: 40px;
+width: 160px;
+position: absolute;
+}
+
+.logo{
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.smart{
+  position: absolute;
+  margin-left: 40px;
+  color:white;
+  margin-top: 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.closebtn{
+  position: absolute;
+  margin-left: 147px;
+  margin-top: -5px;
+  color: white;
+  text-decoration: none;
+}
+.girl{
+  position: absolute;
+  height: 55px;
+  width: 55px;
+  margin-top: 65px;
+  margin-left: 58px;
+  border-radius: 10px 10px 10px 10px;
+}
+.p{
+  position: absolute;
+  margin-left: 60px;
+  margin-top: 125px;
+  font-size: 12px;
+
+}
+.p1{
+  position: absolute;
+  margin-left: 56px;
+  margin-top: 139px;
+  font-size: 10px; 
+}
+.list{
+  margin-top: 170px;
+  margin-left: -55px;
+  
+}
+.list ul li{
+  height: 25px;
+  margin-top: 20px;
+   padding-right: 90px;
+   display: flex;
+   padding-left: 60px;
+   margin-top: 3px;
+   padding: 7px;  
+}
+.list ul li:hover{
+  background-color:lightgrey;
+ 
+}
+.a:hover{
+  color:blue;
+}
+.a{
+  text-decoration: none;
+  font-size: 13px;
+  color: black;
+}
+ul{
+  list-style-type: none; 
+}
+.list ul li img{
+  height: 17px;
+  width: 17px;
+  margin-left: 20px;
+}
+.navbar2{
+  position: fixed;
+  background-color: white;
+  height: 40px;
+  width: 1055px;
+  margin-left: 160px;
+  top: 0px;
+  z-index: 1;
+}
+
+.menu{
+  position:fixed;
+  height: 15px;
+  width: 15px;
+  margin-top: 6px;
+  margin-left: 165px;
+ z-index: 1;
+  text-decoration: none;
+  color: black;
+  
+}
+.mic{
+  position: absolute;
+  height: 15px;
+  width: 15px;
+  margin-top: 13px;
+ margin-left: 170px;
+}
+.navigation input{
+  position: absolute;
+  margin-left: 32px;
+  margin-top: 5px;
+  height: 30px;
+  width: 160px;
+  background-color: lightgrey;
+  border-radius:  10px 10px 10px 10px;
+  border: 1px solid lightgrey;
+}
+.more{
+  position: absolute;
+  height: 15px;
+  width: 15px;
+  margin-left: 1053px;
+  margin-top: 12px;
+}
+.p2{
+  margin-left: 1020px;
+  font-size: 0.7rem;
+  margin-top: 11px;
+}
+.girl1{
+  position: absolute;
+  height: 22px;
+  width: 22px;
+  margin-top: 9px;
+  margin-left: 993px;
+  border-radius: 10px 10px 10px 10px;
+}
+.unread{
+  position: absolute;
+  height: 15px;
+  width: 15px;
+  margin-left: 917px;
+  margin-top: -25px;
+}
+.notification {
+  background-color: white;
+  color: white;
+  text-decoration: none;
+  padding: 0px;
+  position: absolute;
+  display: inline-block;
+  border-radius: 2px;
+  margin-left: 50px;
+}
+.notification .badge {
+  position: absolute;
+  top: -32px;
+  right: -938px;
+ height: 14px;
+ width: 14px;
+  border-radius: 50%;
+  background: blue;
+  color: white;
+  font-size: 0.7rem;
+}
+.unread1{
+  position: absolute;
+  height: 13px;
+  width: 13px;
+  margin-left: 891px;
+  margin-top: -25px;
+}
+.notification1 {
+  background-color: white;
+  color: white;
+  text-decoration: none;
+  padding: 0px;
+  position: absolute;
+  display: inline-block;
+  border-radius: 2px;
+  margin-left: 52px;
+}
+.notification1 .badge1 {
+  position: absolute;
+  top: -32px;
+  right: -908px;
+ height: 14px;
+ width: 14px;
+  border-radius: 50%;
+  background:orange;
+  color: white;
+  font-size: 0.7rem;
+}
+#box{
+  position: absolute;
+  height: 25px;
+  width:25px;
+  margin-left: 845px;
+  margin-top: -29px;
+}
+.india{
+position: absolute;
+height: 15px;
+width: 15px;
+margin-left: 878px;
+margin-top:-25px ;
+}
+.p3{
+  position: absolute;
+  margin-left: 898px;
+  font-size: 0.7rem;
+  margin-top: -26px;
+}
+
+.navbar3{
+  position: absolute;
+  height: 555px;
+  width: 1065px;
+  background-color: whitesmoke;
+  top: 0px ; 
+  margin-left: 160px;
+  margin-top: 40px;
+  overflow: hidden; 
+}
+.p4
+{
+  font-size: 1rem;
+  color: gray;
+  margin-left: 20px;
+  margin-top: 12px;
+}
+.box{
+  position: absolute;
+  height: 30px;
+  width:150px;
+  background-color: lightgrey;
+  border-radius:  20px 20px 20px 20px;
+  border: 1px solid lightgrey;
+  margin-left: 900px;
+  margin-top: -39px;
+}
+.p5{
+  margin-top: 4px;
+  margin-left: 40px;
+  font-size: 0.8rem;
+}
+.box1{
+  position: absolute;
+  height: 90px;
+  width:250px;
+  background-color: #7FFFD4;
+  margin-left: 16px;
+  border-radius: 10px 10px 10px 10px;
+
+}
+.box2{
+  position: absolute;
+  height: 90px;
+  width:250px;
+  background-color: #FFA500;
+  margin-left: 278px;
+  border-radius: 10px 10px 10px 10px;
+
+}
+.box3{
+  position: absolute;
+  height: 90px;
+  width:250px;
+  background-color: #29C5F6;
+  margin-left: 540px;
+  border-radius: 10px 10px 10px 10px;
+}
+.box4{
+  position: absolute;
+  height: 90px;
+  width:250px;
+  background-color: #e74f4e;
+  margin-left: 805px;
+  border-radius: 10px 10px 10px 10px;
+}
+.nav{
+  position: absolute;
+  height: 50px;
+  width:50px;
+  background-color: lightgrey;
+  border-radius:  50px 50px 50px 50px;
+  border: 1px solid lightgrey;
+  margin-left: 13px;
+  margin-top: 20px;
+  z-index: 1;
+}
+.images1{
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  margin-left: 9px;
+  margin-top: 8px;
+}
+.progress {
+  position: absolute;
+  margin-top: -10px ;
+  width: 70%;
+  border: 1px solid black;
+  height: 2px;
+  border-radius: 20px 20px 20px 20px;
+  margin-left: 73px;
+}
+
+.progress .progress__bar {
+  height: 100%;
+  width: 0%;
+  background-color:white;
+  animation: fill-bar 3s infinite;
+}
+
+@keyframes fill-bar {
+  from {width: 0%;}
+  to {width: 45%;}
+}
+.progress1 {
+  position: absolute;
+  margin-top: -10px ;
+  width: 70%;
+  border: 1px solid black;
+  height: 2px;
+  border-radius: 20px 20px 20px 20px;
+  margin-left: 73px;
+}
+
+.progress1 .progress__bar1 {
+  height: 100%;
+  width: 0%;
+  background-color:white;
+  animation: fill-bar1 3s infinite;
+}
+
+@keyframes fill-bar1 {
+  from {width: 0%;}
+  to {width: 40%;}
+}
+.progress2 {
+  position: absolute;
+  margin-top: -10px ;
+  width: 70%;
+  border: 1px solid black;
+  height: 2px;
+  border-radius: 20px 20px 20px 20px;
+  margin-left: 73px;
+}
+
+.progress2 .progress__bar2 {
+  height: 100%;
+  width: 0%;
+  background-color:white;
+  animation: fill-bar2 3s infinite;
+}
+
+@keyframes fill-bar2 {
+  from {width: 0%;}
+  to {width: 85%;}
+}
+.progress3 {
+  position: absolute;
+  margin-top: -10px ;
+  width: 70%;
+  border: 1px solid black;
+  height: 2px;
+  border-radius: 20px 20px 20px 20px;
+  margin-left: 73px;
+}
+
+.progress3 .progress__bar3 {
+  height: 100%;
+  width: 0%;
+  background-color:white;
+  animation: fill-bar3 3s infinite;
+}
+
+@keyframes fill-bar3 {
+  from {width: 0%;}
+  to {width: 50%;}
+}
+.p6{
+  font-size: 0.8rem;
+  color: white;
+  margin-left: 75px;
+}
+.p7{
+  font-size: 0.9rem;
+  color: white;
+  margin-left: 75px;
+  margin-top: -10px;
+}
+.p8{
+  font-size: 0.8rem;
+  color: white;
+  margin-left: 75px;
+  margin-top: -2px;
+}
+.images2{
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  margin-left: 14px;
+  margin-top: 14px;
+}
+.graph{
+	position: absolute;
+	width: 500px;
+	height: 255px;
+	background-color: white;
+	margin-left: 17px;
+ margin-top: 103px;
+ border-radius: 10px 10px 10px 10px;
+}
+.graph img{
+  position: absolute;
+  margin-top: 20px;
+  width:440px;
+  margin-left: 40px;
+  height: 210px;
+}
+.graph p{
+  position: absolute;
+  margin-top: 100px;
+  z-index: 1;
+  margin-left: 35px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 0.9rem;
+  margin-top: 5px;
+}
+.list2{
+	position: absolute;
+	margin-left:-16px ;
+	margin-top:40px ;
+	list-style-type: none;
+  font-size: 0.6rem;
+  color: gray;
+}
+.list2 li{
+	padding: 2px;
+}
+.list3 li{
+	padding: 13px;
+  display: inline-block;
+}
+
+.list3{
+	position: absolute;
+	margin-top: 214px;
+  list-style-type: none;
+  margin-left: -13px;
+  color: grey;
+}
+.graph1{
+	position: absolute;
+	width: 500px;
+	height: 255px;
+	background-color: white;
+	margin-left:550px;
+ margin-top: 103px;
+ border-radius: 10px 10px 10px 10px;
+}
+.graph1 img{
+  position: absolute;
+  margin-top: 20px;
+  width:440px;
+  margin-left: 40px;
+  height: 210px;
+}
+.graph1 p{
+  position: absolute;
+  margin-top: 100px;
+  z-index: 1;
+  margin-left: 35px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 0.9rem;
+  margin-top: 5px;
+}
+.list4{
+	position: absolute;
+	margin-left:-28px ;
+	margin-top:27px ;
+	list-style-type: none;
+  font-size: 0.6rem;
+  color: gray;
+}
+.list4 li{
+	padding: 11px;
+}
+.list5 li{
+	padding:20px;
+  display: inline-block;
+}
+
+.list5{
+	position: absolute;
+	margin-top: 209px;
+  list-style-type: none;
+  margin-left: -16px;
+  color: grey;
+}
+.Data {
+  position: absolute;
+	width: 760px;
+	height: 136px;
+	background-color: white;
+	margin-left:18px;
+ margin-top: 365px;
+ border-radius: 10px 10px 10px 10px;
+}
+.data .p9{
+  font-size: 0.9rem;
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 8px;
+  margin-left: 18px;
+  border-bottom: 0.5px solid lightgrey;
+}
+.teacher-table-list tr{
+  position: absolute;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 0.7rem;
+  margin-top: -35px;
+}
+.teacher-table-list th{
+  padding: 28px;
+}
+.t1{
+  margin-left: 15px;
+}
+.body{
+  position: absolute;
+  background-color: lightskyblue;
+  width: 1232px;
+	height: 595px;
+  top: 0px;
+  z-index: 2;
+}		
+.login{
+	text-align: center;
+	margin: auto;
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+  height: 400px;
+  width: 400px;
+}
+
+.name {
+
+	margin: 3px;
+	padding: 12px;
+	background-color: lightblue;
+	border-bottom:2px skyblue ;
+	width: 200px;	
+  height: 10px;
+  border-radius: 20px 20px 20px 20px;
+}
+.password{
+
+	margin: 3px;
+	padding: 12px;
+	background-color: lightblue;
+	border-bottom:2px skyblue ;
+	width: 200px;	
+  height: 10px;
+  border-radius: 20px 20px 20px 20px;
+}
+.btn-submit{
+    border: none;
+	background-color:lightskyblue;
+	width: 100px;
+	height:20px ;
+	margin-top: 50px;
+ border-radius: 20px 20px 20px 20px;
+ 
+}
+.xyz{
+	text-align: center;
+  color: black;
+}
+ .login img{
+	background: transparent;
+}
+.user{
+  height: 90px;
+  margin-top: 10px;
+}
+.register{
+  position: absolute;
+  font-size: 0.8rem;
+  text-decoration: none;
+  margin-left: 105px;
+  color: grey;
+}
+
+
+
+
+
+
+
